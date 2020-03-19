@@ -1,0 +1,18 @@
+{
+    "_id" : "ParentCategories",
+    "selectors" : {
+        "8x10 Wall Art" : "//android.view.View[@text = '8X10 WALL ART']",
+        "Prints" : "//android.view.View[@text = 'PRINTS']",
+        "Wall Art" : "//android.view.View[@text = 'WALL ART']",
+        "Mugs & Drinkware" : "//android.view.View[@text = 'MUGS & DRINKWARE']",
+        "Photo Books" : "//android.view.View[@text = 'PHOTO BOOKS']",
+        "Home & Office" : "//android.view.View[@text = 'HOME & OFFICE']",
+        "Large Format Prints" : "//android.view.View[@text = 'LARGE FORMAT PRINTS']",
+        "Gifts For Pet Lovers" : "//android.view.View[@text = 'GIFTS FOR PET LOVERS']",
+        "Device Cases" : "//android.view.View[@text = 'DEVICE CASES']",
+        "Cards" : "//android.view.View[@text = 'CARDS']",
+        "Pet Products" : "//android.view.View[@text = 'PET PRODUCTS']",
+        "Holiday Gifts" : "//android.view.View[@text = 'HOLIDAY GIFTS']",
+        "Continue to Cart" : "//android.widget.Button[@resource-id = 'categoryContinueToCart']"
+    }
+}

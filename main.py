@@ -1,3 +1,5 @@
+import pyperclip
+
 turnToText = False
 turnTextToAccessIds = True
 capitalizeText = False
@@ -66,6 +68,7 @@ finalString = appendBefore + finalString
 print(finalString)
 outputFile = open("output.txt", "w")
 outputFile.write(finalString)
+pyperclip.copy(finalString)
 
 listFile.close()
 outputFile.close()

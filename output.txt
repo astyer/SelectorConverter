@@ -1,18 +1,13 @@
 {
-    "_id" : "ParentCategories",
+    "_id" : "HolidayGiftsProducts",
     "selectors" : {
-        "8x10 Wall Art" : "~8X10 WALL ART",
-        "Prints" : "~PRINTS",
-        "Wall Art" : "~WALL ART",
-        "Mugs & Drinkware" : "~MUGS & DRINKWARE",
-        "Photo Books" : "~PHOTO BOOKS",
-        "Home & Office" : "~HOME & OFFICE",
-        "Large Format Prints" : "~LARGE FORMAT PRINTS",
-        "Gifts For Pet Lovers" : "~GIFTS FOR PET LOVERS",
-        "Device Cases" : "~DEVICE CASES",
-        "Cards" : "~CARDS",
-        "Pet Products" : "~PET PRODUCTS",
-        "Holiday Gifts" : "~HOLIDAY GIFTS",
-        "Continue to Cart" : "~categoryContinueToCart"
+        "Metal Snowflake Ornament" : "~Metal Snowflake Ornament",
+        "Metal Wreath Ornament" : "~Metal Wreath Ornament",
+        "Slate Square Ornament, Tis The Season" : "~Slate Square Ornament, Tis The Season",
+        "Slate Square Ornament, Let It Snow" : "~Slate Square Ornament, Let It Snow",
+        "Frosted Glass Oval Ornament" : "~Frosted Glass Oval Ornament",
+        "Frosted Glass Hexagon Ornament" : "~Frosted Glass Hexagon Ornament",
+        "Frosted Glass Square Ornament" : "~Frosted Glass Square Ornament",
+        "3x4 Two-Sided Metal Ornament" : "~3x4 Two-Sided Metal Ornament"
     }
 }
